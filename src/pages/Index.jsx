@@ -42,7 +42,7 @@ const Index = () => {
           </Heading>
           <SimpleGrid columns={{ base: 1, md: 2, lg: 3 }} spacing={5}>
             <GridItem>
-              <Text>> $10 M Ticket</Text>
+              <Text>{'>'} $10 M Ticket</Text>
               <Text>Brigit - Fintech, North America</Text>
             </GridItem>
             <GridItem>
